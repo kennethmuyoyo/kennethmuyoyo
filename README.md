@@ -1,12 +1,12 @@
-<h3 align="center">A passionate Civil Engineer and Software Developer from Kenya</h3>
+<h3 align="center">A passionate Civil Engineer and Software Engineer from Kenya</h3>
 
-- 🔭 I’m currently working on [a AI Mobile Application](Monos.ai)
+- 🔭 I’m currently working on an Accesibility Platfomr [a AI Powered Accessibility Platform](signvrse.com)
 
-- 🌱 I’m currently learning **Machine Learning, and Python**
+- 🌱 I’m currently learning **Rust, Machine Learning, and Python**
 
-- 👯 I’m looking to collaborate on **any project related to Machine Learning, AI and Civil Engineering**
+- 👯 I’m looking to collaborate on **any project related to Systems Programming, Machine Learning, AI and Civil Engineering**
 
-- 💬 Ask me about **NEXT, REACT, ML and AI**
+- 💬 Ask me about **NEXT, REACT, SPRING BOOT, ML and AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
